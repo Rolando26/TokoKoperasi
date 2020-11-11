@@ -1,0 +1,7 @@
+email	:ning@gmail.com
+pw	:123321
+(ADMIN)
+
+email	:joko@gmail.com
+pw	:jokowi
+(Kasir)
